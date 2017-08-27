@@ -4,3 +4,6 @@
 2. Run `npm install` in the command line with the cloned folder as your current directory.
 3. Run `npm start`
 4. Navigate to `localhost:8080` in your browser to see the app running.
+
+
+Credits to [Stephen Grider](https://github.com/StephenGrider) for providing the code template and his tutorials!
